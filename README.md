@@ -1,22 +1,24 @@
+# Data Analyst
 
-# Introductiontes
-## Wikipedia's Significance
+#### Technical Skills: Python, Java, MATLAB, Microsoft Power BI, Dashboards, Problem Solving, Data Cleansing, Data Visualization (DataViz), Data Analysis, SQL, Tableau, R, KPI, SAP, QGIS, Statistics, Excel, Spreadsheets, Data Warehousing, Statistical Data Analysis, Git
 
-- Crucial information resource for people
-- Importance extends to large language models like ChatGPT
-- Beyond human use, vital for machine verification of factual accuracy
+## Education							       		
+- M.S., Digital Engineering	| Bauhaus-Universität Weimar, Germany (_October 2020 - August 2023_)	 			        		
+- B.S., Civil Engineering | Jordan University of Science and Technology, Jordan (_October 2013 - March 2018_)
 
-## Scope of Wikipedia's Content
+## Work Experience
+**Thesis Researcher (Data Analyst) @ Webis.de, Germany (_January 2023 - August 2023_)**
+*Conducted research on real-world events' impact on Wikipedia, utilizing data analysis and Python programming.*
+- Analyzed Wikipedia editing trends during events.
+- Created informative data visualizations.
+- Proficient in Python, Pandas, NumPy, and Matplotlib.
+- Ensured data accuracy through rigorous cleaning.
+- Developed a novel methodology for event impact assessment.
+- Derived meaningful conclusions, enhancing understanding of online community behavior during events.
 
-- Encompasses static knowledge (natural sciences, biographies)
-- Also covers evolving information about ongoing events and developments
 
-## Establishing Trust in Wikipedia
+**Civil Structural Engineer @ Creative Urban Designs, Jordan (_April 2018 - September 2020_)**
 
-- Understanding the evolution of information and editing behavior
-- Influence of external factors on editing behavior
-
-## Thesis Focus
-
-- Investigating real-world events' (e.g., armed conflicts, elections, disasters) impact on Wikipedia editing behavior
-- Quantification of these effects
+## Projects
+### Thesis: Quantifying the Effects of Real-World Events on Wikipedia
+[Link](https://webis.de/for-students/completed-theses.html#saqallah_2023)
