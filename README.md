@@ -1,4 +1,3 @@
-# Thesis: 'Quantifying the Effects of Real-World Events on Wikipedia'
 
 # Introduction
 ## Wikipedia's Significance
