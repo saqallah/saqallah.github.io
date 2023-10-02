@@ -22,3 +22,19 @@
 ## Projects
 ### Thesis: Quantifying the Effects of Real-World Events on Wikipedia
 [Link](https://webis.de/for-students/completed-theses.html#saqallah_2023)
+
+**Objective: **
+*Quantitatively analyze the influence of real-world events on English Wikipedia editing behavior.*
+
+- **Investigating Event Impact on overall editing activity:** 
+  - Understand how real-world events affect overall editing activity on English Wikipedia.
+
+- **Exploring Editing Behavior Patterns:** 
+  - Identify patterns in editing behavior around real-world events, including editing bursts, revisions, and changes in focus.
+
+- **Variations Across Event Categories:** 
+  - Explore if event types (e.g., armed conflicts, elections, disasters) lead to distinct editing behavior patterns.
+
+- **Wikipedia's Response via Article Protection:** 
+  - Analyze how Wikipedia protects articles related to events to prevent vandalism and misinformation.
+
